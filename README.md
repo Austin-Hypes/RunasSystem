@@ -31,4 +31,4 @@ This tool is meant for educational and administrative use only. Misuse of privil
 
 
 # Notes 📝
-Created In Visual Studio 2022 Used Ctrl B to build
+Created In Visual Studio 2022 Using C++ Used Ctrl B to build
